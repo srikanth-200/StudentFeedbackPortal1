@@ -1,0 +1,6 @@
+{
+  "name": "Student Feedback Portal",
+  "description": "Anonymous, honest feedback — helping faculty and students grow together with AI-driven sentiment analysis, role-based dashboards, and actionable academic insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
